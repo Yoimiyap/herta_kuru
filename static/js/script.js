@@ -1,11 +1,10 @@
 var LANGUAGES = {
-    "_": { defaultLanguage: "en", defaultVOLanguage: "ja", defaultSpeed: 20, defaultRandmo: "off" },
+    "_": { defaultLanguage: "cn", defaultVOLanguage: "cn", defaultSpeed: 20, defaultRandmo: "off" },
     "en": {
         audioList: [
             // TODO audio random weight
-            "audio/en/en_1.mp3",
-            "audio/en/en_2.mp3",
-            "audio/en/en_3.mp3"
+            "audio/cn/转圈圈.mp3",
+            "audio/cn/转圈圈咯.mp3"
         ],
         texts: {
             "page-title": "Welcome to herta kuru~",
