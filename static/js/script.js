@@ -83,7 +83,7 @@ var LANGUAGES = {
         texts: {
             "page-title": "* 黑塔轉圈圈 ✩‧₊˚",
             "doc-title": "咕嚕咕嚕～",
-            "page-descriptions": "致敬全宇宙超級無敵絕頂聰明黑塔醬的小網站<br>沒錯就是那位惹人愛的<del>很煩的</del>《崩壞：星穹鐵道》角色！",
+            "page-descriptions": "致敬全宇宙超級無敵絕頂聰明黑塔醬的小網站，沒錯就是那位惹人愛的<del>很煩的</del>《崩壞：星穹鐵道》角色！",
             "counter-descriptions": ["黑塔已經咕嚕咕嚕了", "黑塔已經轉了"],
             "counter-unit": ["次", "次圈圈"],
             "counter-button": ["* 轉圈圈 ✩‧₊˚", "* 咕嚕咕嚕 ✩‧₊˚"],
